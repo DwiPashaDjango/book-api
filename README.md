@@ -35,4 +35,6 @@ request method :
 keterangan :
 
       domain adalah nama domain jika server sudah di masukan ke hosting jika masih di local server silahkan gunakan "localhost:3000/api/request method" yang ingin di gunakan
+      
+      silahkan importkan juga book-api.sql di xampp anda
    
