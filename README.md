@@ -27,3 +27,6 @@ request method :
          
    5. delete book :
          http://domain.com/api/delete/id
+
+keterangan :
+   domain adalah nama domain jika server sudah di masukan ke hosting
