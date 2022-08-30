@@ -12,21 +12,21 @@ cara mengaktifkan server :
 
 
 request method :
-   
-   1. get all book :
-         http://domain.com/api/book/
-   
-   2. detail book :
-         http://domain.com/api/book/id
-         
-   3. create book :
-         www.domain.com/api/post/
-         
-   4. update book :
-         http://domain.com/api/update/id
-         
-   5. delete book :
-         http://domain.com/api/delete/id
+   <sup>
+      1. get all book :
+            http://domain.com/api/book/
 
+      2. detail book :
+            http://domain.com/api/book/id
+
+      3. create book :
+            www.domain.com/api/post/
+
+      4. update book :
+            http://domain.com/api/update/id
+
+      5. delete book :
+            http://domain.com/api/delete/id
+   </sup>
 keterangan :
    domain adalah nama domain jika server sudah di masukan ke hosting
