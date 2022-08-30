@@ -9,10 +9,9 @@ book api server with node js
 
          3. buka terminal lalu pastekan "npm start"
  </sup>
-
- <sup>
-   request method :
-   
+ 
+request method :
+ <sup>   
       1. get all book :
             http://domain.com/api/book/
 
@@ -30,7 +29,5 @@ book api server with node js
  </sup>
    
 keterangan :
-   <sup>
       domain adalah nama domain jika server sudah di masukan ke hosting
-   </sup>
    
