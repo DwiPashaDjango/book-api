@@ -1,17 +1,20 @@
 # book-api
 book api server with node js
 
+cara mengaktifkan server :
 <sup>
-   cara mengaktifkan server :
+   
          1. git clone https://github.com/DwiPashaDjango/book-api.git
 
          2. npm install express mysql cors body-parser nodemon
 
          3. buka terminal lalu pastekan "npm start"
+   
  </sup>
  
 request method :
  <sup>   
+   
       1. get all book :
             http://domain.com/api/book/
 
@@ -26,8 +29,10 @@ request method :
    
       5. delete book :
             http://domain.com/api/delete/id
+   
  </sup>
    
 keterangan :
+
       domain adalah nama domain jika server sudah di masukan ke hosting
    
