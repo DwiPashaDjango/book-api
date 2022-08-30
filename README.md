@@ -34,9 +34,5 @@ request method :
    
 keterangan :
 
-      domain adalah nama domain jika server sudah di masukan ke hosting jika masih di local server silahkan gunakan
-      
-      <sup>
-         localhost:3000/api/request method
-      </sup>
+      domain adalah nama domain jika server sudah di masukan ke hosting jika masih di local server silahkan gunakan "localhost:3000/api/request method" yang ingin di gunakan
    
